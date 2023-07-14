@@ -1,0 +1,75 @@
+.face{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    border-radius: 50%;
+    background-color: rgb(230, 230, 11);
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.eyes{
+    display: flex;
+    height: 40%;
+     width: 60%;
+     font-size: 360%;
+     position: relative;
+     left: 20%;
+     top: 20%;
+}
+.ieye{
+    height: 75px;
+    width: 75px;
+background-color:white;
+border-radius: 50%;
+border: 2px solid black;
+}
+.reye{
+    height: 75px;
+    width: 75px;
+background-color: white;
+border-radius: 50%;
+border: 2px solid black;
+
+}
+.lpuple{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin: 0;
+    margin-top: 20px;
+}
+.rpuple{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 50%;
+    margin:0;
+    margin-top: 20px;
+}
+    .smile{
+        position: absolute;
+        height:30;
+        width:40;
+        background-color: rgb(17, 2, 2);
+        border-radius: 50%;
+        top: 211px;
+        left: 9%;
+        right: 30%;
+    }
+    h1{
+        position: absolute;
+        width: 60%;
+         height:20% ;
+        top: -38px;
+        left: -20px;
+    }
+    body{
+        background-color:rgb(138, 15, 15);
+    }
+    .face:hover{
+        background-color: rgb(47, 201, 47);
+       }
+       body:hover{
+        background-color: rgb(173, 47, 201);
+       }
